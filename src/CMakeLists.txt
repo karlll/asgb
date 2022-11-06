@@ -1,0 +1,1 @@
+add_executable(asgb gbadr.c gbmch.c gbpst.c asdata.c asexpr.c aslex.c aslist.c asmain.c asmcro.c asout.c assubr.c assym.c asdbg.c)
