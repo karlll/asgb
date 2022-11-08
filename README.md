@@ -1,7 +1,7 @@
 # asgb
-Gameboy Assembler, subset and repackage of ASxxxx Cross Assemblers.
+Game Boy Assembler, subset and repackage of ASxxxx Cross Assemblers.
 
-See https://shop-pdp.net/ashtml/ for original ASxxxx Cross Assemblers project by  Alan R.  Baldwin.
+See https://shop-pdp.net/ashtml/ for original ASxxxx Cross Assemblers project by  Alan R.  Baldwin and Game Boy mods by Roger Ivie.
 
 ## Build
 
